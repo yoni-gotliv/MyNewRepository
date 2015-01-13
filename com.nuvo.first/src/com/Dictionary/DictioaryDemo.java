@@ -6,7 +6,6 @@ public class DictioaryDemo {
 
     public static void main(String[] args) {
         
-    	//This is test 1
     	DictionaryManager dictionaryManager = new DictionaryManager();
 
 //    	manager.insert("a");

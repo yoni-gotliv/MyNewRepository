@@ -9,7 +9,7 @@ import java.util.Map.Entry;
 
 public class DictionaryManager {
 
-	//This is a test 2
+	//This is a test 1
 	private Map<Character, CharNode> rootNodes = new HashMap<Character, CharNode>();
 	Integer numberOfWords = 0;
 

@@ -3,7 +3,7 @@ package com.Dictionary;
 import java.util.TreeMap;
 
 public class CharNode/* implements NodeInterface*/{
-	//This is test 1
+
 	public CharNode parent;
 	public Boolean endOfWord = false; //Does this Node mark the end of a particular word?
 	public TreeMap<Character,CharNode> children = new TreeMap<Character,CharNode>();
